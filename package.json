@@ -1,5 +1,5 @@
 {
-  "name": "clsx",
+  "name": "@jansedlon/clsx",
   "version": "1.2.2",
   "repository": "jansedlon/clsx",
   "description": "A tiny (228B) utility for constructing className strings conditionally.",
