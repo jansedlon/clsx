@@ -5,7 +5,7 @@
   "description": "A tiny (228B) utility for constructing className strings conditionally.",
   "module": "dist/clsx.mjs",
   "main": "dist/clsx.js",
-  "types": "clsx.d.ts",
+  "types": "dist/index.d.ts",
   "license": "MIT",
   "author": {
     "name": "Jan Sedloň",
