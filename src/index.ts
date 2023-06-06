@@ -1,4 +1,4 @@
-function toVal(mix) {
+function toVal(mix: any) {
 	var k,
 		y,
 		str = "";
